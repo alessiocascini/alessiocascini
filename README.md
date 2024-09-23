@@ -171,7 +171,7 @@ Breve descrizione del progetto.
 - [Posizione] presso [Azienda/Istituzione] - [Periodo]
   Breve descrizione delle responsabilità e delle realizzazioni. 
   --->
-
+<!---
 ## Guida alla Configurazione del Mio Setup del Terminale Personalizzato
 
 Questa guida fornisce istruzioni dettagliate per configurare il tuo terminale con il mio setup personalizzato, che include font, temi e funzionalità avanzate per ottimizzare la tua esperienza di sviluppo e lavoro.
