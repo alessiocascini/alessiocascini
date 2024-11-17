@@ -107,16 +107,46 @@ Sono particolarmente interessato a:
 - [Argomento 2]
 - [Argomento 3]
 
+  --->
+  
 ## Progetti Principali
 
-### [Nome Progetto 1](link al progetto)
+### [**Un linguaggio di programmazione semplice con parser e interprete**](https://github.com/cascini-alessio/simple-language)
 
-Breve descrizione del progetto.
+Questo progetto rappresenta la base per lo sviluppo di un linguaggio di programmazione, ideato per essere semplice ma scalabile. Si tratta di un linguaggio minimalista che, nella sua versione attuale, supporta un'istruzione fondamentale: la stampa di stringhe tramite il comando `print`.  
+
+L'obiettivo principale è stato quello di fornire una piattaforma di partenza per chiunque voglia esplorare il design di linguaggi di programmazione, comprendendo i meccanismi di un parser e di un interprete. Grazie alla sua architettura modulare, il progetto è facilmente estensibile e offre un’ottima base per aggiungere nuove funzionalità come supporto per variabili, operatori, condizioni, cicli e altro ancora.
+
+#### **Caratteristiche principali**
+- **Parser:** Analizza il codice sorgente, generando un Abstract Syntax Tree (AST) per rappresentare le istruzioni.
+- **Interprete:** Esegue le istruzioni contenute nell'AST, consentendo di testare direttamente il codice sorgente.
+- **Estendibilità:** Il design utilizza pattern noti come il Visitor Pattern, rendendo semplice aggiungere nuove funzionalità o trasformazioni (es. ottimizzazioni o analisi semantica).
+- **Modularità:** Il progetto è suddiviso in più file per una gestione del codice chiara e scalabile.
+
+#### **Obiettivo del progetto**
+Il progetto è attualmente in fase di transizione verso il linguaggio **Rust**, scelto per le sue funzionalità moderne, la gestione sicura della memoria e il supporto a una scrittura di codice concisa ed efficiente. La versione in **C++**, tuttavia, resta disponibile come esempio educativo per chiunque voglia partire con un linguaggio base e personalizzarlo.
+
+#### **Come usarlo**
+Questa versione del linguaggio può:
+- Leggere e interpretare il codice direttamente da un file.
+- Stampare stringhe tramite il comando `print`.
+
+#### **Perché usarlo**
+- **Didattico:** Ideale per chi vuole comprendere i fondamenti dei linguaggi di programmazione e della loro implementazione.
+- **Base per progetti personali:** Una piattaforma semplice e chiara per costruire il proprio linguaggio.
+
+#### **Futuro del progetto**
+Il progetto non verrà ulteriormente sviluppato in **C++**, ma rappresenta una solida base per coloro che vogliono espanderlo. La transizione a **Rust** consentirà di esplorare ulteriormente funzionalità avanzate e di creare un linguaggio più sofisticato.
+
+Se stai cercando un punto di partenza per creare il tuo linguaggio di programmazione o semplicemente per imparare come funzionano parser e interpreti, questo progetto fa al caso tuo!
+
+<!---
 
 ### [Nome Progetto 2](link al progetto)
 
 Breve descrizione del progetto.
   --->
+  
 ## Competenze Tecniche
 
 ### Linguaggi di Programmazione:
