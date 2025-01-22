@@ -10,10 +10,8 @@ Ti invito a esplorare il mio profilo e a unirti a me in questa affascinante avve
 
 ## Dove Studio
 
-- **Nome:** Istituto Tecnico Tecnologico Statale "Silvano Fedi - Enrico Fermi"
+- **Istituto:** [Istituto Tecnico Tecnologico Statale "Silvano Fedi - Enrico Fermi"](https://www.ittfedifermi.it/)
 - **Corso di Studi:** Informatica
-- **Località:** Pistoia, Provincia di Pistoia, Italia
-- **Sito Web:** [www.ittfedifermi.it](https://www.ittfedifermi.it/)
 
 ## Obiettivi futuri
 
