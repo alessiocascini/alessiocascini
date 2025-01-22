@@ -1,31 +1,16 @@
 # Alessio Cascini
 
-Benvenuto nel mio profilo GitHub, un luogo dedicato alla condivisione delle mie passioni e delle mie competenze nel campo dell'informatica. Sono uno studente impegnato e appassionato, costantemente alla ricerca di opportunità di apprendimento e di crescita professionale. Qui troverai una raccolta dettagliata dei miei progetti e delle mie esperienze accademiche, riflettendo il mio impegno per l'eccellenza e l'innovazione nel mondo della tecnologia.
+Ciao! Sono Alessio Cascini, uno studente appassionato di informatica, attualmente iscritto all'Istituto Tecnico Tecnologico Statale "Silvano Fedi - Enrico Fermi". Nel mio percorso accademico, mi impegno a sviluppare le mie competenze tecniche e a esplorare le infinite possibilità offerte dalla programmazione e dalla tecnologia. Il mio obiettivo principale è conseguire una laurea in informatica e proseguire il mio cammino verso un futuro professionale ricco di successi e innovazione. 
 
-Fin da giovane, ho nutrito una fervente curiosità per la programmazione e la tecnologia, considerandole fonti inesauribili di stimoli e di sviluppo personale. Attraverso i miei progetti e le mie collaborazioni, cerco di contribuire attivamente alla comunità informatica e di ispirare altri a perseguire le proprie passioni.
-
-La mia determinazione e la mia dedizione mi spingono costantemente a superare le sfide e a raggiungere obiettivi sempre più ambiziosi. Sono entusiasta di condividere il mio percorso di crescita con te e di esplorare insieme le infinite possibilità offerte dall'informatica.
-
-Ti invito a esplorare il mio profilo e a unirti a me in questa affascinante avventura nel mondo della tecnologia. Grazie per l'interesse e il sostegno!
-
-## Dove Studio
-
-- **Istituto:** [Istituto Tecnico Tecnologico Statale "Silvano Fedi - Enrico Fermi"](https://www.ittfedifermi.it/)
-- **Corso di Studi:** Informatica
-
-## Obiettivi futuri
-
-### Obiettivi Accademici nel Campo dell'Informatica
-
-Il mio impegno nel campo dell'informatica si estende oltre il presente, poiché ho chiari obiettivi e ambizioni che mi guidano verso un futuro accademico ricco di successi. Attualmente, il mio focus è sul perfezionamento delle mie competenze attraverso una varietà di canali, tra cui corsi online, progetti personali e collaborazioni con altri appassionati del settore. Tuttavia, guardo oltre: il mio obiettivo principale è quello di conseguire una laurea in informatica presso un'università di eccellenza.
+Se vuoi saperne di più sui miei progetti e sulle mie esperienze, sei nel posto giusto!
 
 ## Contatti
 
-Per qualsiasi comunicazione o domanda relativa al mio percorso scolastico e alle mie attività accademiche, puoi contattarmi tramite la seguente email:
+Per qualsiasi domanda o curiosità riguardo il mio percorso accademico, i miei progetti o collaborazioni, non esitare a contattarmi! Puoi raggiungermi tramite email:
 
 - Email: cascini.alessio@studenti-ittfedifermi.edu.it
 
-Sarò lieto di rispondere prontamente a qualsiasi messaggio ricevuto.
+Sarò felice di rispondere a tutte le tue domande e di entrare in contatto!
 
 <!---
 ## Interessi di Studio
@@ -35,7 +20,7 @@ Sono particolarmente interessato a:
 - [Argomento 1]
 - [Argomento 2]
 - [Argomento 3]
-  --->
+  
 
 ## Competenze Tecniche
 
@@ -44,7 +29,7 @@ Sono particolarmente interessato a:
 - **Assembly**: Conoscenza approfondita della programmazione in linguaggio Assembly per architetture x86, inclusa la comprensione dei registri, delle istruzioni e delle strutture di controllo del flusso.
 - **Batch**: Esperienza pratica nello sviluppo di script batch per l'automazione di compiti e processi su sistemi Windows.
 - **Arduino**: Capacità di programmazione per microcontrollori Arduino, inclusa la gestione dei pin, la comunicazione seriale e lo sviluppo di progetti embedded.
-
+--->
 <!---
 ### Frameworks:
 - **[Inserisci nomi dei Frameworks]**: (Descrizione dei framework utilizzati e competenze associate)
