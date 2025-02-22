@@ -33,6 +33,11 @@ Batch • Bash
 
 </div>
 
+### Legenda
+
+💎 Competenza consolidata con progetto su GitHub  
+🔥 Competenza in fase di consolidamento attivo
+
 ## Contatti
 
 Per qualsiasi domanda o curiosità riguardo il mio percorso accademico, i miei progetti o collaborazioni, non esitare a contattarmi! Puoi raggiungermi tramite email:
