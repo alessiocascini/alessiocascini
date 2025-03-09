@@ -1,47 +1,45 @@
 # Alessio Cascini
 
-Ciao! Sono Alessio Cascini, uno studente appassionato di informatica, attualmente iscritto all'Istituto Tecnico Tecnologico Statale "Silvano Fedi - Enrico Fermi". Nel mio percorso accademico, mi impegno a sviluppare le mie competenze tecniche e a esplorare le infinite possibilità offerte dalla programmazione e dalla tecnologia. Il mio obiettivo principale è conseguire una laurea in informatica e proseguire il mio cammino verso un futuro professionale ricco di successi e innovazione.
+Hi! I'm a passionate CS student at I.T.T.S "Silvano Fedi - Enrico Fermi". Driven by innovation, I focus on creating forward-thinking projects that not only redefine coding but also empower developers. Always eager to expand my knowledge, I'm constantly learning new technologies and pushing boundaries. My goal is to shape the future of programming by building solutions that matter.
 
-Se vuoi saperne di più sui miei progetti e sulle mie esperienze, sei nel posto giusto!
-
-## Competenze
+## Skills
 
 <div align="center">
 
-### Linguaggi & Framework
+### Languages & Frameworks
 
-<!-- Linguaggi di Basso Livello -->
+<!-- Low-Level Languages -->
 <!-- 🔥 Rust -->
-<!-- Linguaggi Generali -->
+<!-- General Purpose Languages -->
+<!-- Web & Front-End Development -->
 <!-- 🔥 Flutter -->
-<!-- Sviluppo Web & Front-End -->
-<!-- Scripting & Automazione -->
+<!-- Scripting & Automation -->
 
 Arduino • Assembly • C  
 💎 C++ • Java  
 💎 Dart • HTML/CSS • JavaScript  
 Batch • Bash
 
-### Strumenti
+### Tools
 
-<!-- Versionamento -->
+<!-- Version Control -->
 <!-- 🔥 GitHub -->
-<!-- Containerizzazione -->
+<!-- Containerization -->
 <!-- 🔥 Docker -->
 
 🔥 Git
 
 </div>
 
-### Legenda
+### Legend
 
-💎 Competenza consolidata con progetto su GitHub  
-🔥 Competenza in fase di consolidamento attivo
+💎 **Ask me about these**: See my GitHub projects.  
+🔥 **What I'm interested in**: I'm actively learning these topics.
 
-## Contatti
+## Contact
 
-Per qualsiasi domanda o curiosità riguardo il mio percorso accademico, i miei progetti o collaborazioni, non esitare a contattarmi! Puoi raggiungermi tramite email:
+If you have any questions or collaboration ideas, please email me at:
 
-- Email: cascini.alessio@studenti-ittfedifermi.edu.it
+- cascini.alessio@studenti-ittfedifermi.edu.it
 
-Sarò felice di rispondere a tutte le tue domande e di entrare in contatto!
+I look forward to connecting with you!
