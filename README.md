@@ -16,7 +16,7 @@ Hi! I'm a passionate CS student at I.T.T.S "Silvano Fedi - Enrico Fermi". Driven
 <!-- Scripting & Automation -->
 
 Arduino • Assembly • C  
-💎 C++ • Java  
+💎 C++ • Java • Python  
 💎 Dart • HTML/CSS • JavaScript  
 Batch • Bash
 
@@ -25,9 +25,9 @@ Batch • Bash
 <!-- Version Control -->
 <!-- 🔥 GitHub -->
 <!-- Containerization -->
-<!-- 🔥 Docker -->
 
-🔥 Git
+🔥 Git  
+🔥 Docker
 
 </div>
 
