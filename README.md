@@ -11,23 +11,33 @@ Hi! I'm a passionate CS student at I.T.T.S "Silvano Fedi - Enrico Fermi". Driven
 <!-- Low-Level Languages -->
 <!-- 🔥 Rust -->
 <!-- General Purpose Languages -->
-<!-- Web & Front-End Development -->
-<!-- 🔥 Flutter -->
+<!-- Front-End Development -->
+<!-- SCSS -->
+<!-- Back-End Development -->
 <!-- Scripting & Automation -->
 
 Arduino • Assembly • C  
-💎 C++ • Java • Python  
-💎 Dart • HTML/CSS • JavaScript  
+💎 C++ • 💎 Dart • Java • Python  
+🔥 Flutter • HTML/CSS • JavaScript • Vue  
+Django • PHP  
 Batch • Bash
+
+### Databases
+
+<!-- Relational Databases -->
+
+MySQL • SQLite
 
 ### Tools
 
 <!-- Version Control -->
 <!-- 🔥 GitHub -->
 <!-- Containerization -->
+<!-- Build Tools -->
 
 🔥 Git  
-🔥 Docker
+🔥 Docker  
+Vite
 
 </div>
 
