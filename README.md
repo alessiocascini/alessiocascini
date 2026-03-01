@@ -41,6 +41,9 @@ Vite
 
 </div>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### Legend
 
 💎 **Ask me about these**: See my GitHub projects.  
