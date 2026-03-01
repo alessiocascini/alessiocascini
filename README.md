@@ -41,18 +41,13 @@ Vite
 
 </div>
 
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
 ### Legend
 
 💎 **Ask me about these**: See my GitHub projects.  
 🔥 **What I'm interested in**: I'm actively learning these topics.
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## Contact
 
