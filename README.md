@@ -49,8 +49,7 @@ Vite
 <!--START_SECTION:waka-->
 
 ```txt
-XML   12 mins               █████████████████████▒░░░   85.76 %
-PHP   2 mins                ███▓░░░░░░░░░░░░░░░░░░░░░   14.24 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
