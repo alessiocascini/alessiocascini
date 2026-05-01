@@ -49,11 +49,7 @@ Vite
 <!--START_SECTION:waka-->
 
 ```txt
-Astro        1 hr 5 mins           ██████████████▒░░░░░░░░░░   57.77 %
-Text         17 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.63 %
-TypeScript   10 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.20 %
-YAML         9 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 %
-JavaScript   6 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
