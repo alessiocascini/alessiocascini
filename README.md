@@ -49,8 +49,7 @@ Vite
 <!--START_SECTION:waka-->
 
 ```txt
-Other        4 mins                ███████████████████████▒░   92.76 %
-SSH Config   0 secs                █▓░░░░░░░░░░░░░░░░░░░░░░░   07.24 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
