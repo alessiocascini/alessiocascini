@@ -49,8 +49,7 @@ Vite
 <!--START_SECTION:waka-->
 
 ```txt
-PHP    0 secs                █████████████████████████   99.65 %
-HTML   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
